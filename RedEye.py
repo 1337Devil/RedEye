@@ -1,3 +1,4 @@
+
 # Coded By 1337Devil :)
 # import os command ..
 import os
@@ -7,6 +8,9 @@ import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("1337Devil")
 print(ascii_banner)
+print("                   Thanks To Mr.hEx020")
+print("                   Thanks To ThEhilL")
+print("                   Greets To My Friends")
 
 
 def a():
